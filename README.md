@@ -7,3 +7,4 @@ I’m erfan, Python developer.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=erfansaberi&show_icons=true)](https://github.com/erfansaberi)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erfansaberi&layout=compact)](https://github.com/erfansaberi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erfansaberi)](https://github.com/anuraghazra/erfansaberi)
