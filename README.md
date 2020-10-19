@@ -7,4 +7,4 @@ I’m erfan, Python developer.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=erfansaberi&show_icons=true)](https://github.com/erfansaberi)
 
-[![erfansaberi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@erfansaberi)](https://github.com/erfansaberi)
+[![erfansaberi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=erfansaberi)](https://github.com/erfansaberi)
