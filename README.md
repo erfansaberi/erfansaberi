@@ -9,7 +9,7 @@ I’m erfan, Python developer.
 
 ♥ See my friends profiles:
 
-  -[Amirhossein Mohammadi](https://github.com/BlackIQ)
+- [Amirhossein Mohammadi](https://github.com/BlackIQ)
   
-  -[Amirmahdi Kaheh](https://github.com/Amirmahdi-Kaheh)
+- [Amirmahdi Kaheh](https://github.com/Amirmahdi-Kaheh)
   
