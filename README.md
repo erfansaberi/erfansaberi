@@ -7,7 +7,7 @@ I’m erfan, Python developer.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=erfansaberi&show_icons=true)](https://github.com/erfansaberi)
 
-![](https://anchor.digitalocean.com/rs/113-DTN-266/images/Tree%20Badge.png "My Tree Badge" | width=250)
+<img src="https://anchor.digitalocean.com/rs/113-DTN-266/images/Tree%20Badge.png">
 
 ♥ See my friends profiles:
 
