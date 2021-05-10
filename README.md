@@ -6,5 +6,3 @@ I’m erfan, Python developer.
 - Read my posts in [Virgool](https://virgool.io/@erfansaberi)
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=erfansaberi&show_icons=true)](https://github.com/erfansaberi)
-
-# Happy New Year! | سال نو مبارک !
