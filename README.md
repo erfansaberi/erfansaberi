@@ -1,4 +1,4 @@
-### I have a github profile, therefore I am.
+### I code, therefore I am.
 
 
 Hello!
